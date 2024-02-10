@@ -18,4 +18,4 @@ for names in semester_gradebook.keys():
 for grades in semester_gradebook.values():
   grade_map += grades
   print(grade_map)
-  
+learning Tuples and list comprehension (intensely)
